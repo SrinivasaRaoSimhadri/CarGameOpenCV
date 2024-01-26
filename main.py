@@ -1,5 +1,6 @@
 import cv2 as cv
 import mediapipe as mp
+import time
 
 # right_key and  left_key are  Hexadecimal representation of virtual key codes on keyboard
 # corresponds to right arrow and left arrow key respectively.
