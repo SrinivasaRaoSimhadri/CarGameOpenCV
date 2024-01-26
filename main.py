@@ -4,8 +4,8 @@ import mediapipe as mp
 # right_key and  left_key are  Hexadecimal representation of virtual key codes on keyboard
 # corresponds to right arrow and left arrow key respectively.
 # PressKey and  ReleaseKey are the functions to press and release key based on Hexadecimal representations as parameter.
-from KeyControls import right_key, left_key
-from KeyControls import PressKey, ReleaseKey
+from keyControls import right_key, left_key
+from keyControls import PressKey, ReleaseKey
 
 # creation of video capture object and setting window size.
 video = cv.VideoCapture(0)
