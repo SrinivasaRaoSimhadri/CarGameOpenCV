@@ -1,4 +1,4 @@
-# HillClimbing
+# Car Game
 # Hand Gesture Controlled Racing Game
 
 This project demonstrates a simple hand gesture control mechanism for a racing game using Python, OpenCV, and MediaPipe.
